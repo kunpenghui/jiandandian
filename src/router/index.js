@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import HelloWorld from '@/components/HelloWorld'
+import welcome from '@/components/jdd/welcome'
 import Dishes from '@/components/jdd/Dishes'
 import Cart from "@/components/jdd/Cart"
 
