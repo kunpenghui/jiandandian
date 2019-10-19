@@ -9,6 +9,8 @@ import axios from "axios"
 import MintUI from "mint-ui"
 //引入mint-ui样式文件
 import "mint-ui/lib/style.css"
+//引入normalize.css
+import "normalize.css"
 //设置axios参数
 axios.defaults.baseURL = "http://127.0.0.1:4000/";
 axios.defaults.withCredentials = true;
